@@ -216,7 +216,7 @@ fis.media('qa').match('*', {
  -- empty
 ```
 
-> `fis3 inspect <media>` 查看特定 media 的分配情况
+> `fis3 inspect (media)` 查看特定 media 的分配情况
 
 **更多信息**
 
